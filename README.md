@@ -6,7 +6,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/iOS-26+-2980b9.svg" alt="Designed for iOS 26 and later." />
-    <img src="https://img.shields.io/badge/swift-6.2+-8e44ad.svg" alt="Designed for Swift 6.2 and later." />
+    <img src="https://img.shields.io/badge/swift-6.4+-8e44ad.svg" alt="Designed for Swift 6.4 and later." />
     <a href="https://twitter.com/twostraws">
         <img src="https://img.shields.io/badge/Contact-@twostraws-95a5a6.svg?style=flat" alt="Twitter: @twostraws" />
     </a>
